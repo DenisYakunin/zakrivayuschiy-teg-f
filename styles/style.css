@@ -491,17 +491,14 @@
     padding: 25px;
     padding-top: 22px;
   }
-
-  .footer__button {
-    width: 306px;
-    height: 80px;
-  }
-
+  
   .footer__button {
     flex-direction: column;
     justify-content: center;
     align-items: center;
     row-gap: 8px;
+    width: 306px;
+    height: 80px;
   }
 
   .floppy {
