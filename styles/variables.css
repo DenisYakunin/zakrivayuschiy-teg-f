@@ -1,1 +1,18 @@
 /* В этом файле будут храниться все значения переменных в исходном состоянии, а так же их изменения в зависимости от ширины устройства */
+
+:root {
+    --text-main-font-family: 'Inter-Variable', 'monospace';
+    --text-accent-font-family: 'PressStart2P', 'monospace';
+    --text-card-title-weight: 785;
+    --text-card-description-weight: 465;
+    --text-accent-color: #00CC14;
+    --background-color: #000;
+    --background-image-from-color: #007f0c;
+    --background-image-to-color: #004306;
+    --background-image-grid-color: #000;
+    --border-color: #00CC14;
+    --text-button-filled: #00CC14;
+    --heart-main-body-color: #00CC14;
+    --heart-sparks-color: #FF0000;
+    --backdrop-color: rgba(0, 0, 0, 0.75);
+}
